@@ -1,6 +1,10 @@
 /*
 line 2
-line 3 in temp repository
+<<<<<<< HEAD
+line 3 a merge of the two
+=======
+line 3 changed
+>>>>>>> 75740c3ec68d7f1351f3dfea3d4efb1dacd6a16f
 line 4
 line 5
 line 6
